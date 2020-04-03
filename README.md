@@ -19,3 +19,4 @@ The Technologies used for this app are
     -OMBD API
     -Bands In Town API
     
+To get a visual discription on how this works, check out my screenshots folder!
