@@ -1,0 +1,79 @@
+
+
+            
+        
+========MOVIE DATA=========
+        
+Title of movie: Hot Fuzz
+        
+Year of Release: 2007
+        
+Movie Rating: R
+        
+Rotten Tomatoes Rating: undefined
+        
+Movie Country Origin: undefined
+        
+Movie Language: English
+        
+Movie Plot: A skilled London police officer is transferred to a small town with a dark secret.
+        
+Movie Actors Simon Pegg, Martin Freeman, Bill Nighy, Robert Popper
+        
+        
+========MOVIE DATA=========
+        
+Title of movie: Hot Fuzz
+        
+Year of Release: 2007
+        
+Movie Rating: R
+        
+Rotten Tomatoes Rating: undefined
+        
+Movie Country Origin: undefined
+        
+Movie Language: English
+        
+Movie Plot: A skilled London police officer is transferred to a small town with a dark secret.
+        
+Movie Actors Simon Pegg, Martin Freeman, Bill Nighy, Robert Popper
+        
+        
+========MOVIE DATA=========
+        
+Title of movie: Hot Fuzz
+        
+Year of Release: 2007
+        
+Movie Rating: R
+        
+Rotten Tomatoes Rating: 91%
+        
+Movie Country Origin: undefined
+        
+Movie Language: English
+        
+Movie Plot: A skilled London police officer is transferred to a small town with a dark secret.
+        
+Movie Actors Simon Pegg, Martin Freeman, Bill Nighy, Robert Popper
+        
+        
+========MOVIE DATA=========
+        
+Title of movie: Hot Fuzz
+        
+Year of Release: 2007
+        
+Movie Rating: R
+        
+Rotten Tomatoes Rating: 91%
+        
+Movie Country Origin: UK, France
+        
+Movie Language: English
+        
+Movie Plot: A skilled London police officer is transferred to a small town with a dark secret.
+        
+Movie Actors Simon Pegg, Martin Freeman, Bill Nighy, Robert Popper
+        

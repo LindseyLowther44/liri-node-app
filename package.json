@@ -1,0 +1,29 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "A command line app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LindseyLowther44/liri-node-app.git"
+  },
+  "keywords": [],
+  "author": "Lindsey Lowther",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LindseyLowther44/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/LindseyLowther44/liri-node-app#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1",
+    "omdb": "^0.8.0",
+    "spotify": "^0.3.0"
+  },
+  "devDependencies": {}
+}
