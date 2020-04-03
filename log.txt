@@ -77,3 +77,143 @@ Movie Plot: A skilled London police officer is transferred to a small town with 
         
 Movie Actors Simon Pegg, Martin Freeman, Bill Nighy, Robert Popper
         
+=========NEW SPOTIFY SONG=========
+                        
+Artist:  + Ariana Grande
+                        
+Name of Song:  + thank u, next 
+                        
+Preview Link:  + null
+                        
+Album:  + thank u, next
+                        
+===================================
+=========NEW SPOTIFY SONG=========
+                        
+Artist:  + Queen
+                        
+Name of Song:  + Somebody To Love - 2011 Mix 
+                        
+Preview Link:  + null
+                        
+Album:  + A Day At The Races (Deluxe Remastered Version)
+                        
+===================================
+=========NEW SPOTIFY SONG=========
+                        
+Artist:  + G-Eazy
+                        
+Name of Song:  + 1942 
+                        
+Preview Link:  + https://p.scdn.co/mp3-preview/1ba819ff8c191a13cbd7a7e81037349f93f2ddd7?cid=98eaec49cf56490988ec9a43cfab7623
+                        
+Album:  + 1942
+                        
+===================================
+        
+========MOVIE DATA=========
+        
+Title of movie: How to Lose a Guy in 10 Days
+        
+Year of Release: 2003
+        
+Movie Rating: PG-13
+        
+Rotten Tomatoes Rating: 42%
+        
+Movie Country Origin: USA, Germany
+        
+Movie Language: English
+        
+Movie Plot: Benjamin Barry is an advertising executive and ladies' man who, to win a big campaign, bets that he can make a woman fall in love with him in 10 days. Andie Anderson covers the "How To" beat for "Composure" magazine and is assigned to write an article on "How to Lose a Guy in 10 days." They meet in a bar shortly after the bet is made.
+        
+Movie Actors Kate Hudson, Matthew McConaughey, Kathryn Hahn, Annie Parisse
+        
+===========================
+        
+        
+========MOVIE DATA=========
+        
+Title of movie: Bohemian Rhapsody
+        
+Year of Release: 2018
+        
+Movie Rating: PG-13
+        
+Rotten Tomatoes Rating: 60%
+        
+Movie Country Origin: UK, USA
+        
+Movie Language: English, British Sign Language
+        
+Movie Plot: The story of the legendary British rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid (1985).
+        
+Movie Actors Rami Malek, Lucy Boynton, Gwilym Lee, Ben Hardy
+        
+===========================
+        
+            
+=========Concert Entry===========
+            
+Artist: Michael Buble
+            
+Name of Venue: Bath Royal Crescent
+            
+Venue Location: Bath
+            
+Event Date: 07/24/2020
+            
+=================================
+            
+            
+=========Concert Entry===========
+            
+Artist: Taylor Swift
+            
+Name of Venue: Werchter Boutique
+            
+Venue Location: Rotselaar
+            
+Event Date: 06/20/2020
+            
+=================================
+            
+            
+=========Concert Entry===========
+            
+Artist: Taylor Swift
+            
+Name of Venue: Werchter Boutique
+            
+Venue Location: Rotselaar
+            
+Event Date: 06/20/2020
+            
+=================================
+            
+            
+=========Concert Entry===========
+            
+Artist: Michael Buble
+            
+Name of Venue: Bath Royal Crescent
+            
+Venue Location: Bath
+            
+Event Date: 07/24/2020
+            
+=================================
+            
+            
+=========Concert Entry===========
+            
+Artist: Lizzo
+            
+Name of Venue: Banc of California Stadium
+            
+Venue Location: Los Angeles
+            
+Event Date: 06/06/2020
+            
+=================================
+            
